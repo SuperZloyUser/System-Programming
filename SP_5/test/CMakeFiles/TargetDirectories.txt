@@ -1,0 +1,3 @@
+C:/Users/super/OneDrive/Stud/SP/SP_5/test/CMakeFiles/SP_5_SERVER.dir
+C:/Users/super/OneDrive/Stud/SP/SP_5/test/CMakeFiles/edit_cache.dir
+C:/Users/super/OneDrive/Stud/SP/SP_5/test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+../Client/main.o: ../Client/main.c /usr/include/stdc-predef.h \
+ ../Client/Client.h
+
+/usr/include/stdc-predef.h:
+
+../Client/Client.h:
